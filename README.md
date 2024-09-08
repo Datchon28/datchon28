@@ -2,7 +2,7 @@
 
 Hi everyone 👋, I am Dat
 - Email: ntdat886@gmail.com
-- Developer | FrontEnd Developer 
+- Developer | Web App Developer 
 
 <!--
 **Datchon28/datchon28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
